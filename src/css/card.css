@@ -1,6 +1,6 @@
 .pokemon-card {
   display: none;
-  box-shadow: var(--shaddow);
+  box-shadow: var(--shadow);
   border-radius: 1em;
 }
 .pokemon-card .top-card {
@@ -15,7 +15,7 @@
   opacity: 0.7;
   border-radius: 1em;
   padding: .2em 1em;
-  box-shadow: var(--shaddow);
+  box-shadow: var(--shadow);
 }
 .pokemon-card .details {
   color: var(--white);
