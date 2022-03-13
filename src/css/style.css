@@ -1,4 +1,5 @@
 .pokemon-card {
+  display: none;
   box-shadow: var(--shaddow);
   border-radius: 1em;
 }
@@ -39,5 +40,21 @@
   border-bottom-right-radius: .8em;
 }
 .pokemon-card .info-card h2 {
-  
+  font-size: 2em;
+  margin-bottom: 1.5em;
+  border-bottom: 1px solid var(--medium-gray);
+}
+.pokemon-card .info-card .status,
+.pokemon-card .info-card .skills {
+  padding: 0 01em;
+  width: 18em;
+}
+.pokemon-card .info-card .status ul li,
+.pokemon-card .info-card .skills ul li {
+  border-bottom: 1px solid var(--gray);
+  padding: 0 0 5px;
+  font-size: 1.5em;
+}
+.pokemon-card.open {
+  display: block;
 }
