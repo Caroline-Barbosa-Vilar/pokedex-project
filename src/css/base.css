@@ -12,6 +12,7 @@
   --medium-green: #49D0B0;
 
   --poppins: 'Poppins', sans-serif;
+  --shaddow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 html {
   box-sizing: border-box;
@@ -28,4 +29,9 @@ main {
   display: flex;
   gap: 3em;
   padding: 3em 0;
+}
+h1 {
+  font-size: 2.5em;
+  font-weight: 800;
+  color: var(--white);
 }
