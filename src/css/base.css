@@ -12,7 +12,7 @@
   --medium-green: #49D0B0;
 
   --poppins: 'Poppins', sans-serif;
-  --shaddow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  --shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 html {
   box-sizing: border-box;
