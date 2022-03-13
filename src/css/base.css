@@ -1,0 +1,28 @@
+:root {
+  --light-gray: #DADFE8;
+  --medium-gray: #6b727a;
+  --gray: #C3C4C5;
+  --white: #FFFFFF;
+  --bright-pink: #fa6668;
+  --pink: #ED8A8B;
+  --dark-yellow: #FCC719;
+  --medium-blue: #76BEFE;
+  --medium-green: #49D0B0;
+  --light-purple: #BA68C8;
+  --light-brow: #C29791;
+
+  --poppins: 'Poppins', sans-serif;
+}
+html {
+  font-size:62.5%;
+  font-family: var(--poppins);
+}
+main {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pokedex {
+  display: flex;
+}
