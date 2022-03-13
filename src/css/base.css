@@ -24,6 +24,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: var(--light-gray);
 }
 .pokedex {
   display: flex;
@@ -34,4 +35,22 @@ h1 {
   font-size: 2.5em;
   font-weight: 800;
   color: var(--white);
+}
+.eletric-type {
+  background-color: var(--dark-yellow);
+}
+.fire-type {
+  background-color: var(--pink);
+}
+.water-type {
+  background-color: var(--medium-blue);
+}
+.ghost-type {
+  background-color: var(--light-purple);
+}
+.grass-type {
+  background-color: var(--medium-green);
+}
+.dragon-type {
+  background-color: var(--light-brow);
 }
