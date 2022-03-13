@@ -1,19 +1,20 @@
 :root {
-  --light-gray: #DADFE8;
-  --medium-gray: #6b727a;
-  --gray: #C3C4C5;
   --white: #FFFFFF;
-  --bright-pink: #fa6668;
+  --light-gray: #DADFE8;
+  --gray: #C3C4C5;
+  --medium-gray: #6b727a;
+  --light-brow: #C29791;
+  --dark-yellow: #FCC719;  
   --pink: #ED8A8B;
-  --dark-yellow: #FCC719;
+  --bright-pink: #fa6668;
+  --light-purple: #BA68C8;
   --medium-blue: #76BEFE;
   --medium-green: #49D0B0;
-  --light-purple: #BA68C8;
-  --light-brow: #C29791;
 
   --poppins: 'Poppins', sans-serif;
 }
 html {
+  box-sizing: border-box;
   font-size:62.5%;
   font-family: var(--poppins);
 }
@@ -25,4 +26,6 @@ main {
 }
 .pokedex {
   display: flex;
+  gap: 3em;
+  padding: 3em 0;
 }
