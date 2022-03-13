@@ -58,3 +58,21 @@
 .pokemon-card.open {
   display: block;
 }
+.eletric-type {
+  background-color: var(--dark-yellow);
+}
+.fire-type {
+  background-color: var(--pink);
+}
+.water-type {
+  background-color: var(--medium-blue);
+}
+.ghost-type {
+  background-color: var(--light-purple);
+}
+.grass-type {
+  background-color: var(--medium-green);
+}
+.dragon-type {
+  background-color: var(--light-brow);
+}
