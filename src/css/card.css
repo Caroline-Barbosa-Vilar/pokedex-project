@@ -52,7 +52,7 @@
 .pokemon-card .info-card .status ul li,
 .pokemon-card .info-card .skills ul li {
   border-bottom: 1px solid var(--gray);
-  padding: 0 0 5px;
+  padding: 5px 0 5px;
   font-size: 1.2em;
 }
 .pokemon-card.open {
