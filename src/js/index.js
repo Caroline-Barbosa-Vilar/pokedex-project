@@ -8,7 +8,7 @@ pokemonSelectionList.forEach(pokemon => {
 
     const idSelectedPokemon = pokemon.attributes.id.value
 
-    const idPokemonCardToOpen = 'card-' + idSelectedPokemon
+    const idPokemonCardToOpen = idSelectedPokemon + '-card' 
     const openPokemonCard = document.getElementById(idPokemonCardToOpen)
     openPokemonCard.classList.add('open')
 
