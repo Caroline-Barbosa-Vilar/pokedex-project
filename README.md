@@ -22,7 +22,7 @@ Make the selected card appear and the others remain hidden, using the arrow func
 
 Desktop 
 
-<img src="./src/pokedex-screen.gif" alt="Pokedex project desktop screen gif">
+<img src="./src/pokedex-desktop-screen.gif" alt="Pokedex project desktop screen gif">
 
 Mobile
 
