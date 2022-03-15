@@ -26,6 +26,21 @@
 .list .pokemon span {
   padding-right: 2em;
 }
-.list .pokemon.active {
-  background-color: var(--bright-pink);
+.list .pokemon.active#pikachu {
+  background-color: var(--dark-yellow);
+}
+.list .pokemon.active#bulbasaur {
+  background-color: var(--medium-green);
+}
+.list .pokemon.active#charmander {
+  background-color: var(--pink);
+}
+.list .pokemon.active#gyarados {
+  background-color: var(--medium-blue);
+}
+.list .pokemon.active#gengar {
+  background-color: var(--light-purple);
+}
+.list .pokemon.active#dragonite {
+  background-color: var(--light-brow);
 }
