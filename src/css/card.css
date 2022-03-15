@@ -46,13 +46,14 @@
 }
 .pokemon-card .info-card .status,
 .pokemon-card .info-card .skills {
-  padding: 0 01em;
-  width: 18em;
+  padding: 0 10px;
+  width: 180px;
 }
 .pokemon-card .info-card .status ul li,
 .pokemon-card .info-card .skills ul li {
   border-bottom: 1px solid var(--gray);
   padding: 5px 0 5px;
+  margin-bottom: 5px;
   font-size: 1.2em;
 }
 .pokemon-card.open {
