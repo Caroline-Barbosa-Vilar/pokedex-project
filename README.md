@@ -6,6 +6,8 @@ The users should be able to:
 
 - Choose the pokemon card and visualize the chosen one.
 
+https://bo83dev.github.io/pokedex-project/
+
 ## Technologies:
 
 - HTML;
@@ -15,3 +17,13 @@ The users should be able to:
 ## What I learned: 
 
 Make the selected card appear and the others remain hidden, using the arrow function.
+
+## The result
+
+Desktop 
+
+<img src="./src/pokedex-screen.gif" alt="Pokedex project desktop screen gif">
+
+Mobile
+
+<img src="./src/pokedex-mobile-screen.gif" alt="Pokedex project mobile screen gif">
