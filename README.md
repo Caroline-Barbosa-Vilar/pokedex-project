@@ -22,10 +22,6 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [Access the Project](#access-the-project)
 
-- [Features](#features)
-
-- [Application](#aplication)
-
 
 ## Project description
 
