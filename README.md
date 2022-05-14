@@ -27,7 +27,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 <p align="justify">
 
-It is a pokemon card deck where the player can choose his card according to the pokemon's abilities. This project was created duringthe 'mapa dev week' free course event of [DevQuest](https://devemdobro.com/lista/).
+It is a pokemon card deck where the player can choose his card according to the pokemon's abilities. This project was created during the [Mapa dev week](https://mapadevweek.com/) a free course event of the Frontend Course of [DevQuest](https://devemdobro.com/lista/).
 </p>
 
 ## Technologies used
@@ -84,7 +84,7 @@ Desktop
 
 <p align="justify">
 
-É um baralho de cartas pokemon onde o jogador pode escolher sua carta de acordo com as habilidades do pokemon. Esse projeto foi desenvolvido durante a 'Mapa DevWeek', evento gratuito do curso [DevQuest](https://devemdobro.com/lista/).
+É um baralho de cartas pokemon onde o jogador pode escolher sua carta de acordo com as habilidades do pokemon. Esse projeto foi desenvolvido durante a [Mapa dev week](https://mapadevweek.com/) um evento gratuito do curso de Frontend [DevQuest](https://devemdobro.com/lista/).
 
 </p>
 
