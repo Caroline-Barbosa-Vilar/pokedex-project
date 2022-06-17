@@ -65,6 +65,7 @@ Desktop
 
 <p align='center'> <img src="./src/pokedex.png" alt="of a pokeball and the pokedex logo"> </p>
 
+	<h1></h1>	
 
 <div align='center'>
 	<a href="https://github.com/Bo83dev/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Bo83dev/digital-agc"></a>
