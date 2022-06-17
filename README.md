@@ -115,7 +115,7 @@ Desktop
 	
 ## Acesse o projeto
 
-Você pode [acessar e testar o projeto aqui](https://github.com/Caroline-Barbosa-Vilar/pokedex-project/settings/pages) 
+Você pode [acessar e testar o projeto aqui](https://caroline-barbosa-vilar.github.io/pokedex-project/) 
 
 Mobile
 
