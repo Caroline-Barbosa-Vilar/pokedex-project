@@ -1,6 +1,5 @@
 <p align='center'> <img src="./src/pokedex.png" alt="of a pokeball and the pokedex logo"> </p>
 
-<h1 align='center'> Pokedex </h1>
 
 <div align='center'>
 	<a href="https://github.com/Bo83dev/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Bo83dev/digital-agc"></a>
@@ -22,6 +21,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [Access the Project](#access-the-project)
 
+<br>
 
 ## Project description
 
@@ -30,6 +30,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 It is a pokemon card deck where the player can choose his card according to the pokemon's abilities. This project was created during the [Mapa dev week](https://mapadevweek.com/) a free course event of the Frontend Course of [DevQuest](https://devemdobro.com/lista/).
 </p>
 
+<br>
 ## Technologies used
 
 <div>
@@ -42,9 +43,11 @@ It is a pokemon card deck where the player can choose his card according to the 
 
 - Make the selected card appear and the others remain hidden, using the arrow function.
 
+<br>
+
 ## Access the Project
 
-You can [access and test the project here](https://bo83dev.github.io/pokedex-project/) 
+You can [access and test the project here](https://caroline-barbosa-vilar.github.io/pokedex-project/) 
 
 Mobile
 
@@ -54,12 +57,12 @@ Desktop
 
 <img src="./src/pokedex-desktop-screen.gif" alt="Pokedex project desktop screen gif">
 
-
+<br>
 
 <div id="portuguese">
 
 
-<h1 align='center'> Pokedex </h1>
+<p align='center'> <img src="./src/pokedex.png" alt="of a pokeball and the pokedex logo"> </p>
 
 
 <div align='center'>
@@ -79,6 +82,7 @@ Desktop
 
 - [Acesse o projeto](#acesse-o-projeto)
 
+<br>	
 
 ## Descrição do projeto 
 
@@ -88,6 +92,7 @@ Desktop
 
 </p>
 
+<br>	
 
 ## Tecnologias utilizadas
 
@@ -97,13 +102,17 @@ Desktop
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+<br>
+	
 ## O que aprendi
 
 - Fazer o card selecionado aparecer e 'esconder' os outros, usando arrow function.
 
+<br>
+	
 ## Acesse o projeto
 
-Você pode [acessar e testar o projeto aqui](https://bo83dev.github.io/pokedex-project/) 
+Você pode [acessar e testar o projeto aqui](https://github.com/Caroline-Barbosa-Vilar/pokedex-project/settings/pages) 
 
 Mobile
 
@@ -113,7 +122,8 @@ Desktop
 
 <img src="./src/pokedex-desktop-screen.gif" alt="Pokedex project desktop screen gif">
 
-
+<br>
+	
 <hr>
 
 Developed with 🧡 by me!  [Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
