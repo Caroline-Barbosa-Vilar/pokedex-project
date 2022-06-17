@@ -32,6 +32,7 @@ It is a pokemon card deck where the player can choose his card according to the 
 </p>
 
 <br>
+
 ## Technologies used
 
 <div>
